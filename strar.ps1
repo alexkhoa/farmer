@@ -4,7 +4,7 @@ $miner_bin = $miner_bin -replace ' ', '` '
 
 # define pool, user, and nice worker name
 $miner_url = "stratum+tcp://ethash.poolbinance.com:8888"
-$miner_user = "thanhmobile"
+$miner_user = "khabib2022"
 $miner_worker = "tenmay"
 
 # define args to tune miner behavior
